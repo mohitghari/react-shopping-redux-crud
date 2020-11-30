@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "School - Bag",
+            "price": 25,
+            "is_available": true,
+            "image_url": "https://www.dhresource.com/0x0s/f2-albu-g1-M00-16-01-rBVaGFodF2uAKgf_AAJ12VkoXS0749.jpg/fengdong-waterproof-oxford-fabric-boys-school.jpg"
+        },
+        {
+            "id": 2,
+            "name": "School - water -Bag",
+            "price": 3,
+            "is_available": true,
+            "image_url": "https://4.imimg.com/data4/OJ/NT/MY-13236534/school-water-bottle-500x500.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Shoes",
+            "price": 10,
+            "is_available": true,
+            "image_url": "https://rukminim1.flixcart.com/image/714/857/jao8uq80/shoe/3/r/q/sm323-9-sparx-white-original-imaezvxwmp6qz6tg.jpeg?q=50"
+        },
+        {
+            "id": 4,
+            "name": "Shoes-nike",
+            "price": 12,
+            "is_available": true,
+            "image_url": "http://assets.myntassets.com/assets/images/6677072/2018/6/16/da3738d5-4948-4fd7-8873-fe75795da0e01529149670795-Mens-Nike-LunarConverge-2-Running-Shoe-5611529149670650-1.jpg"
+        }
+    ]
+}

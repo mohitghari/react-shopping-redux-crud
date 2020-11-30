@@ -1,0 +1,45 @@
+.product-image{
+    height: 100px;
+    width: 100px;
+}
+
+.product-wrapper{
+    width: 30%;
+    border: 1px solid;
+    padding: 15px;
+    text-align: center;
+    float: left;
+}
+.product-list-warpper{
+    width: 100%;
+}
+
+.clear{
+    clear: both;
+}
+
+.quantity-button{
+    width: 83px;
+    border: 1px solid;
+    border-radius: 10px;
+    display: flex;
+    margin:auto
+}
+
+.quantity-button .minus{
+    width: 29%;
+    text-align: center;
+}
+
+.quantity-button .text{
+    width: 70%;
+    text-align: center
+}
+.quantity-button .plus{
+    width: 36%;
+    text-align: center;
+}
+
+.quantity-button span{
+    cursor: pointer;
+}
